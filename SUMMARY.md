@@ -7,6 +7,7 @@
 * 第 2 章  代码管理
    * Git  简介
    * Github  使用
+   * GitHook 应用
 * 第 3 章  数据存储
    * Mongodb  简介
    * Mongoose 的使用
