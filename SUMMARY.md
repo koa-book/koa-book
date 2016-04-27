@@ -13,4 +13,5 @@
    * Mongoose 的使用
 * 第 4 章  缓存管理
    * Memorycache  使用
+   * Redis  使用
 
