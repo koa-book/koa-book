@@ -24,7 +24,7 @@
    * UnitTest  概念与使用
    * RouterTest  自动路由测试
    * Istanbul 测试覆盖率
-* 第 6 章  压力测试
+* 第 7 章  压力测试
    * webbench  的使用
    * ab  的使用
 * 第 7 章  部署
