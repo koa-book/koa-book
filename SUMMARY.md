@@ -6,6 +6,7 @@
 * 第 1 章  一见钟情
    * Koa2  简介
    * Koa2  路由
+   * VSCode  使用
 * 第 2 章  代码管理
    * Git  简介
    * Github  使用
