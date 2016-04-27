@@ -17,7 +17,7 @@
 * 第 4 章  数据存储
    * Mongodb  简介
    * Mongoose 的使用
-* 第 4 章  缓存管理
+* 第 5 章  缓存管理
    * Memorycache  使用
    * Redis  使用
 * 第 5 章  单元测试
