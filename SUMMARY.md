@@ -11,6 +11,7 @@
    * Git  简介
    * Github  使用
    * GitHook 应用
+   * Lint  统一代码风格
 * 第 3 章  数据存储
    * Mongodb  简介
    * Mongoose 的使用
