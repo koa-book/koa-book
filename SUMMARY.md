@@ -6,8 +6,8 @@
 * 第 1 章  Koa2
    * Koa2  简介
    * Koa2  路由
-   * Logger  日志处理
    * Koa2  中间件
+   * Logger  日志处理
 * 第 2 章  代码编辑器
    * VSCode 简介
    * VSCode  调试
