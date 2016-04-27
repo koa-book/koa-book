@@ -20,7 +20,7 @@
 * 第 5 章  缓存管理
    * Memorycache  使用
    * Redis  使用
-* 第 5 章  单元测试
+* 第 6 章  单元测试
    * UnitTest  概念与使用
    * RouterTest  自动路由测试
    * Istanbul 测试覆盖率
